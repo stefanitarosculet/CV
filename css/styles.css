@@ -50,6 +50,10 @@ a:hover {
   border-radius: 150%;
 }
 
+.profile_picture {
+border_radius: 100%;
+}
+
 .skill-row {
   margin: 20px auto 50px 20px;
   text-align: left;
