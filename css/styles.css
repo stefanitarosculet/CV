@@ -51,9 +51,8 @@ a:hover {
 }
 
 .profile_picture {
-border_radius: 100%;
-width: 90px;
-height: 70px;
+border_radius: 150%;
+
 }
 
 .skill-row {
